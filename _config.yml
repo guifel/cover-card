@@ -140,6 +140,7 @@ social-links:
 
   - name: Telegram
     url-pattern: telegram.me/__USERNAME__
+    icon-class: fab fa-2x fa-telegram-plane
 
   - name: snapchat
     url-pattern: snapchat.com/add/__USERNAME__
