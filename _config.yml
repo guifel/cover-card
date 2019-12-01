@@ -62,14 +62,14 @@ plugins:
 #     - defaults to `fab` style and uses value of `name` attribute (e.g. fab fa-2x fa-twitter)
 #     - **optional**
 social-links:
-  - name: facebook
+  - name: Facebook
     url-pattern: facebook.com/__USERNAME__
     icon-class: fab fa-2x fa-facebook-f
 
-  - name: twitter
+  - name: Twitter
     url-pattern: twitter.com/__USERNAME__
 
-  - name: linkedin
+  - name: Linkedin
     url-pattern: linkedin.com/in/__USERNAME__
 
   - name: google-plus
@@ -90,7 +90,7 @@ social-links:
   - name: pinterest
     url-pattern: pinterest.com/__USERNAME__
 
-  - name: github-user
+  - name: Github
     url-pattern: github.com/__USERNAME__
     icon-class: fab fa-2x fa-github
 
@@ -131,14 +131,14 @@ social-links:
   - name: dribbble
     url-pattern: dribbble.com/__USERNAME__
 
-  - name: keybase
+  - name: Keybase
     url-pattern: keybase.io/__USERNAME__
 
   - name: messenger
     url-pattern: m.me/__USERNAME__
     icon-class: fab fa-2x fa-facebook-messenger
 
-  - name: telegram
+  - name: Telegram
     url-pattern: telegram.me/__USERNAME__
 
   - name: snapchat
@@ -151,7 +151,7 @@ social-links:
     url-pattern: '__USERNAME__'
     icon-class: fas fa-2x fa-tags
 
-  - name: email
+  - name: Email
     url-scheme: 'mailto:'
     url-pattern: '__USERNAME__'
     icon-class: fas fa-2x fa-envelope
