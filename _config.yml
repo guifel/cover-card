@@ -68,9 +68,11 @@ social-links:
 
   - name: Twitter
     url-pattern: twitter.com/__USERNAME__
+    icon-class: fab fa-2x fa-twitter
 
   - name: Linkedin
     url-pattern: linkedin.com/in/__USERNAME__
+    icon-class: fab fa-2x fa-linkedin-in
 
   - name: google-plus
     url-pattern: plus.google.com/+__USERNAME__
@@ -133,7 +135,8 @@ social-links:
 
   - name: Keybase
     url-pattern: keybase.io/__USERNAME__
-
+    icon-class: fab fa-2x fa-keybase
+    
   - name: messenger
     url-pattern: m.me/__USERNAME__
     icon-class: fab fa-2x fa-facebook-messenger
