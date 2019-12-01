@@ -12,14 +12,14 @@ favicon: 'favicon.ico'
 
 # Online profiles
 #dribbble: 'mydribbble'
-facebook: 'guife'
-twitter: 'guillaumefelley'
-linkedin: 'guillaume-felley-10514140'
-telegram: 'guillaumefelley'
+Facebook: 'guife'
+Twitter: 'guillaumefelley'
+Linkedin: 'guillaume-felley-10514140'
+Telegram: 'guillaumefelley'
 #instagram: 'myinsta'
 #pinterest: 'mypinterest'
 #youtube: 'myyoutube'
-github-user: 'guifel'
+Github: 'guifel'
 #gitlab-user: ''
 #codepen: ''
 #steam: ''
@@ -32,9 +32,9 @@ github-user: 'guifel'
 #weibo: 'myweibo'
 #vk: 'myvk'
 #blog_url: 'myblog.blog.com'
-email: 'guillaume@felley.io'
+Email: 'guillaume@felley.io'
 #messenger: 'myfbchat'
-keybase: guifel
+Keybase: guifel
 
 social-links-order: [Email, Telegram, Github, Twitter, Keybase,instagram, tumblr, pinterest, Linkedin, youtube, vk, weibo, dribbble, messenger, Facebook, blog_url]
 
