@@ -36,7 +36,7 @@ email: 'guillaume@felley.io'
 #messenger: 'myfbchat'
 keybase: guifel
 
-social-links-order: [email, telegram, github-user, twitter, keybase,instagram, tumblr, pinterest, linkedin, youtube, vk, weibo, dribbble, messenger, facebook, blog_url]
+social-links-order: [Email, Telegram, Github, Twitter, Keybase,instagram, tumblr, pinterest, Linkedin, youtube, vk, weibo, dribbble, messenger, Facebook, blog_url]
 
 # Advanced settings
 plugins:
