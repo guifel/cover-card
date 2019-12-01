@@ -72,7 +72,7 @@ social-links:
 
   - name: Linkedin
     url-pattern: linkedin.com/in/__USERNAME__
-    icon-class: fab fa-2x fa-linkedin-in
+    icon-class: fab fa-2x fa-linkedin
 
   - name: google-plus
     url-pattern: plus.google.com/+__USERNAME__
